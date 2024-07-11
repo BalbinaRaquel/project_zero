@@ -6,3 +6,6 @@ New attempt
 
 - modifying once again
 - and more!
+
+## Important:
+-> A new branch has been added to the project!
